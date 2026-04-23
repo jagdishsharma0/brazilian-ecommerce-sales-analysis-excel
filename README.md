@@ -1,89 +1,123 @@
-# 📊 Brazilian E-Commerce Sales Analysis (Advance Excel) 🚧
+# 📊 **Brazilian E-Commerce Sales Analysis** 
+# 
 
-## 📌 Project Description
+## 🚀 **Project Overview**
+This project presents a complete **end-to-end data analysis workflow in Microsoft Excel**, transforming **raw e-commerce data** into **actionable business insights** through an **interactive dashboard**.
 
-Performed end-to-end data analysis on a Brazilian e-commerce dataset using Microsoft Excel. Applied data cleaning, transformation, and feature engineering techniques, and developed KPI-driven analysis using VLOOKUP, data modeling, and pivot tables to identify trends in sales, customer behavior, and delivery performance. Currently building an interactive dashboard for actionable business insights.
-
----
-
-## 🎯 Objectives
-
-* Analyze overall sales performance
-* Track key business KPIs
-* Understand customer purchasing patterns
-* Evaluate delivery performance and delays
-* Build an interactive Excel dashboard
+The focus of this project is on:
+- 📈 **Sales & Revenue Performance**
+- 🌍 **Regional (State & City) Analysis**
+- 💳 **Payment Method Distribution**
+- ⏱️ **Delivery Performance**
+- 🧠 **Basic Customer Behavior Trends (order patterns)**
 
 ---
 
-## 🧩 Dataset Information
-
-* Brazilian E-Commerce Public Dataset
-* Includes:
-
-  * Orders data
-  * Customer data
-  * Product data
-  * Payment and shipping details
+## 🗂️ **Dataset**
+- Source: **Kaggle – Brazilian E-commerce Dataset**
+- Data includes multiple tables related to:
+  - **Orders**  
+  - **Customers**  
+  - **Payments**  
+  - **Delivery**  
 
 ---
 
-## 🛠️ Tools & Techniques
+## ⚙️ **Data Preparation & Processing**
 
-* Microsoft Excel
-
-  * VLOOKUP & Lookup Functions
-  * Data Cleaning & Transformation
-  * Data Modeling
-  * Pivot Tables
-  * KPI Metrics
+### 🧹 **Data Cleaning**
+- Handled **missing values**
+- Standardized **data formats**
+- Ensured **data consistency across tables**
 
 ---
 
-## 📈 Current Progress
-
-* ✅ Data collection and merging completed
-* ✅ Data cleaning and preprocessing done
-* ✅ Feature engineering applied
-* ✅ KPI sheet created
-* ✅ Pivot tables built
-* 🚧 Charts and visualizations in progress
-* 🚧 Dashboard creation in progress
-* 🚧 Final insights pending
+### 🔗 **Data Integration**
+- Merged multiple datasets into a single **Mega Dataset**
+- Used **Advanced Excel techniques (VLOOKUP)** for **data merging**
 
 ---
 
-## 📊 Key Metrics
-
-* Total Orders
-* Total Revenue
-* Average Order Value (AOV)
-* Average Delivery Time
-* Late Delivery Percentage
-
----
-
-## 📂 Project Structure
-
-```
-data/        → Raw and cleaned datasets  
-analysis/    → Excel analysis and pivot tables  
-dashboard/   → Dashboard (in progress)  
-```
+### 🧠 **Feature Engineering**
+Created new columns to enhance analysis:
+- **Order Month & Year**  
+- **Order Quarter**  
+- **Delivery Duration**  
+- **Delivery Status (On-Time / Late)**  
+- **Weekday vs Weekend classification**  
+- **Payment Value = Product Price + Shipping Cost**
 
 ---
 
-## 🚀 Project Status
+## 📊 **Data Analysis (Pivot Tables)**
 
-🟡 Work in Progress — Completion expected soon
+Built multiple pivot tables to analyze:
+
+- 📅 **Revenue trends over time**  
+- 💳 **Payment method distribution**  
+- 📦 **Orders by Quarter**  
+- 🚚 **Delivery performance**  
+- 🌍 **Revenue by State**  
+- 🏙️ **Revenue by City**  
+- 📆 **Orders by Day of Week**  
 
 ---
 
-## 🙋‍♂️ Author
+## 📈 **Dashboard Overview**
 
-**Jagdish Sharma**
-📧 [jagdishsharma464347@gmail.com](mailto:jagdishsharma464347@gmail.com)
-🔗 https://www.linkedin.com/in/jagdish-sharma2275
+### 🔢 **KPIs**
+- **Total Orders**  
+- **Total Revenue**  
+- **Average Order Value (AOV)**  
+- **Average Delivery Time**  
+- **Late Delivery %**  
 
 ---
 
+### 📊 **Visualizations**
+
+- 🥧 **Revenue by Payment Method (Pie Chart)**  
+- 🍩 **Revenue by Quarter (Donut Chart)**  
+- 📊 **Delivery Performance (Column Chart)**  
+- 📉 **Monthly Revenue Trend (Line Chart)**  
+- 📊 **Top Cities by Revenue (Bar Chart)**  
+- 📊 **Revenue by State (Bar Chart)**  
+
+---
+
+## 🔍 **Key Insights**
+
+- 💳 Majority of revenue comes from **Credit Card payments**
+- 🌆 **São Paulo and Rio de Janeiro** dominate **revenue contribution**
+- 📈 Revenue shows a **consistent upward trend over time**
+- 🚚 Most deliveries are **on time**, but a **noticeable delay percentage exists**
+- 📆 Order patterns vary across **weekdays and weekends**
+
+---
+
+## 🛠️ **Tools & Techniques Used**
+
+- **Microsoft Excel**  
+- **Pivot Tables**  
+- **VLOOKUP**  
+- **Data Cleaning & Transformation**  
+- **Dashboard Design & Visualization**  
+
+---
+
+## 📁 **Files Included**
+
+- 📄 **Raw Dataset (original data files)**  
+- 📊 **Excel Analysis File**:
+  - **Mega Dataset**  
+  - **Analysis (Pivot Tables)**  
+  - **Dashboard**  
+- 🖼️ **Dashboard Screenshot**  
+
+---
+
+## 📌 **Project Workflow**
+
+```text
+Raw Data → Data Cleaning → Data Merging (VLOOKUP)
+→ Feature Engineering → Pivot Tables → Dashboard Creation
