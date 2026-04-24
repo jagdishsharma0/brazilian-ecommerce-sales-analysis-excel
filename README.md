@@ -115,19 +115,11 @@ Built multiple pivot tables to analyze:
 
 ---
 
-## 📌 **Project Workflow**
-
-```text
-Raw Data → Data Cleaning → Data Merging (VLOOKUP)
-→ Feature Engineering → Pivot Tables → Dashboard Creation
-
----
-
 ## 👤 **Author**
 
-**Jagdish Sharma**  
-📧 **jagdishsharma464347@gmail.com**  
-📞 **+91-9358645433**  
-🔗 **https://www.linkedin.com/in/jagdish-sharma2275**  
+- **Jagdish Sharma**  
+- 📧 **jagdishsharma464347@gmail.com**  
+- 📞 **+91-9358645433**  
+- 🔗 **https://www.linkedin.com/in/jagdish-sharma2275**  
 
 ---
