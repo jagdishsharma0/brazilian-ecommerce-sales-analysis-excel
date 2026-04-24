@@ -1,5 +1,4 @@
-# 📊 **Brazilian E-Commerce Sales Analysis** 
-# 
+# 📊 **Brazilian E-Commerce Sales Analysis**  
 
 ## 🚀 **Project Overview**
 This project presents a complete **end-to-end data analysis workflow in Microsoft Excel**, transforming **raw e-commerce data** into **actionable business insights** through an **interactive dashboard**.
@@ -16,10 +15,10 @@ The focus of this project is on:
 ## 🗂️ **Dataset**
 - Source: **Kaggle – Brazilian E-commerce Dataset**
 - Data includes multiple tables related to:
-  - **Orders**  
-  - **Customers**  
-  - **Payments**  
-  - **Delivery**  
+  - **Orders Dataset**  
+  - **Orders Items Dataset**  
+  - **Orders Payments Dataset**  
+  - **Customer Dataset**  
 
 ---
 
@@ -121,3 +120,14 @@ Built multiple pivot tables to analyze:
 ```text
 Raw Data → Data Cleaning → Data Merging (VLOOKUP)
 → Feature Engineering → Pivot Tables → Dashboard Creation
+
+---
+
+## 👤 **Author**
+
+**Jagdish Sharma**  
+📧 **jagdishsharma464347@gmail.com**  
+📞 **+91-9358645433**  
+🔗 **https://www.linkedin.com/in/jagdish-sharma2275**  
+
+---
